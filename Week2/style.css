@@ -32,3 +32,8 @@
     display: block;
     float: left;
 }
+.module1, .module2, .module3, .module4{
+    width:50%;
+    display: block;
+    float:left;
+}
