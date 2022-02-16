@@ -22,9 +22,13 @@
 .csym019{
     background-color: aqua;
     width: 50%;
+    display:block;
+    float: left;
 }
 
 .csym015{
     background-color: yellow;
     width:50%;
+    display: block;
+    float: left;
 }
