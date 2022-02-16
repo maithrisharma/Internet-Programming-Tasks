@@ -7,7 +7,7 @@
     background-color: black;
 }
 
-.part2{
+.part2, .part3{
     color:green;
 }
 
@@ -15,6 +15,3 @@
     background-color: darkred;
 }
 
-.part3{
-    color:green;
-}
