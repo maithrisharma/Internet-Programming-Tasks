@@ -33,7 +33,14 @@
     float: left;
 }
 .module1, .module2, .module3, .module4{
-    width:50%;
+    width:40%;
     display: block;
     float:left;
+}
+
+.module1{
+    margin:20px;
+    padding: 15px;
+    font-family:'Times New Roman', Times, serif;
+    border-radius: 5%;
 }
