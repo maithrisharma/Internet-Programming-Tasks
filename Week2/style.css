@@ -6,3 +6,11 @@
     color:white;
     background-color: black;
 }
+
+.part2{
+    color:green;
+}
+
+.part2 p{
+    background-color: darkred;
+}
