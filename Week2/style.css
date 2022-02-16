@@ -7,7 +7,7 @@
     background-color: black;
 }
 
-.part2, .part3{
+.part2, .part3, .part4{
     color:green;
 }
 
@@ -15,3 +15,6 @@
     background-color: darkred;
 }
 
+.part4 div{
+    color:black;
+}
