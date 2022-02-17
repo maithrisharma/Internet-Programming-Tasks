@@ -66,3 +66,22 @@
     border-radius: 5%;
     background-color:mediumorchid;
 }
+
+.container{
+    display:flex;
+}
+
+.section1{
+    width:20%;
+    background-color: yellow;
+}
+
+.section2{
+    width:60%;
+    background-color: aqua;
+}
+
+.section3{
+    width:20%;
+    background-color: seagreen;
+}
