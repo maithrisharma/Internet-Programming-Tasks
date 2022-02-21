@@ -67,29 +67,3 @@
     background-color:mediumorchid;
 }
 
-.container{
-    display:flex;
-}
-
-.section1{
-    width:20%;
-    background-color: yellow;
-}
-
-.section2{
-    width:60%;
-    background-color: aqua;
-}
-
-.section3{
-    width:20%;
-    background-color: seagreen;
-}
-
-.header{
-    background-color: blue;
-    width:100%;
-    position: fixed;
-    color:white;
-    height:100px;
-}
