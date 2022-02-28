@@ -29,8 +29,8 @@ footer{
     color: white;
     grid-area: footer;
 }
-/*li{
+li{
     display: block;
     float: left;
     width: 33.33%;
-}*/
+}
