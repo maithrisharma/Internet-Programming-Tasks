@@ -1,3 +1,3 @@
 function myFunc(){
-    alert(document.getElementById("ele1").value);
+    document.getElementById("ele2").innerHTML=document.getElementById("ele1").value;
 }
