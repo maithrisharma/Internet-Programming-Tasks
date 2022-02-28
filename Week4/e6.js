@@ -15,7 +15,7 @@ function myFunc2(){
 
 }
 function myFunc3(){
-    document.getElementById("ele2").firstChild.nodeValue = 'Changed when mouse Leave';
+    document.getElementById("ele2").firstChild.nodeValue = 'This is paragraph';
     
 
 }
