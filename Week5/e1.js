@@ -4,6 +4,6 @@ function myFunc(){
 
 }
 function clickFunc(){
-    alert("Element is clicked");
+    alert("The button was pressed");
 }
 document.addEventListener('DOMContentLoaded',myFunc);
