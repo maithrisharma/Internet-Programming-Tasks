@@ -11,7 +11,7 @@ function myInterval(){
     element.style.opacity=circleOpacity-0.1;
 }
 function clickFunc(){
-    setInterval(myInterval,1000);
+    setInterval(myInterval,10);
     
     
 }
