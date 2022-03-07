@@ -1,6 +1,6 @@
 function myFunc(){
     var element= document.getElementById("circle");
-    element.addEventListener('click',clickFunc);
+    document.addEventListener('keydown',clickFunc);
 
 }
 function clickFunc(){
