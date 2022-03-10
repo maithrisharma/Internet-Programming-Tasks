@@ -21,7 +21,7 @@ function moveTop(){
 function moveBottom(){
     var element= document.getElementById("circle");
     var positionTop=element.offsetTop;
-    element.style.top=positionTop+1+'px'
+    element.style.top=positionTop+1+'px';
 }
 function clickFunc(event){
     console.log(event.keyCode);
@@ -40,7 +40,7 @@ function clickFunc(event){
     }
     else if(event.keyCode==40){
         setInterval(moveBottom,10);
-        ;
+        
     }
     
 }
